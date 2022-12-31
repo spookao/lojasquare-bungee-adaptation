@@ -1,0 +1,6 @@
+name: LojaSquare
+version: 1.7
+main: br.com.lojasquare.bungee.BungeeMain
+description: Plugin da Loja Square adaptado para BungeeCord
+authors: [TrowDev, spookao]
+website: https://www.lojasquare.com.br/

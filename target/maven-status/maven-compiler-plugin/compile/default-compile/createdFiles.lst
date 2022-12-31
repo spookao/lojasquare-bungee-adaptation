@@ -1,0 +1,6 @@
+br\com\lojasquare\bungee\listener\ProductListener.class
+br\com\lojasquare\bungee\event\ProductPreActiveEvent.class
+br\com\lojasquare\bungee\ItemInfo.class
+br\com\lojasquare\bungee\event\ProductActiveEvent.class
+br\com\lojasquare\bungee\LojaSquare.class
+br\com\lojasquare\bungee\BungeeMain.class
