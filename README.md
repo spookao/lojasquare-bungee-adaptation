@@ -42,7 +42,7 @@ Não para seu site! <br>
 Mantemos seu site online aqui, na nossa plataforma.<br>
 
 # LojaSquare Spigot
-<a href="[https://github.com/TrowDev/Teste-API-Loja-Square](https://github.com/TrowDev/LojaSquare)">LojaSquare para Spigot</a>
+<a href="https://github.com/TrowDev/LojaSquare">LojaSquare para Spigot</a>
 
 # API para Desenvolvedores
 Para visualizar a "documentação" da API e seu modo de uso, acesse:
