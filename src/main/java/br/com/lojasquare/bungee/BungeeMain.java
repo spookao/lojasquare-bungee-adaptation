@@ -25,14 +25,12 @@ public class BungeeMain extends Plugin {
 
     /**
      * Loja Square Adaptation to BungeeCord
-     *
-     * @author spookão
      */
 
     @Getter
     private static BungeeMain instance;
     private static int tempoChecarItens;
-    private static List<String> produtosConfigurados = new ArrayList<>();
+    private static final List<String> produtosConfigurados = new ArrayList<>();
     private static LojaSquare ls;
     private static String servidor;
     private static boolean debug;
@@ -239,7 +237,7 @@ public class BungeeMain extends Plugin {
                     }
                 }
             }
-        }, 1, TimeUnit.MINUTES);
+        }, getTempoChecarItens(), getTempoChecarItens(), TimeUnit.SECONDS);
     }
 
 
